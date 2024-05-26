@@ -1,0 +1,7 @@
+requests_cache
+retry_requests
+openmeteo-requests
+scikit-learn
+plotly
+dash
+dash-bootstrap-components
